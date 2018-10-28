@@ -1,4 +1,4 @@
-from VersionA.System import *
+from System import *
 import pygame
 from pygame.locals import *
 import time
